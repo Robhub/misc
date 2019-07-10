@@ -1,4 +1,4 @@
 misc
 ====
 
-Miscellaneous small abandonned projects or prototypes
+Miscellaneous small abandoned projects or prototypes
